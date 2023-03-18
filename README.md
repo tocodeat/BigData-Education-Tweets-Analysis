@@ -2,18 +2,18 @@
 
 The goal is to examine tweets related to education topics in 2022 and identify patterns and trends in education. To accomplish this, pySpark was used on Google Cloud clusters to analyze tweets related to K-12/Higher Education. This analysis answers the following questions:
 
-Identify the most prolific / influential Twitterers
-Who are these Twitterers (government entities / universities / schools / nonprofit organizations / news outlets / social media influencers / someone else)?
-Visualize the distribution of tweet / retweet volume by Twitterers and types of organizations
-Where are these Twitterers (all of them, not just influencers) located?
-Is there any relationship between the emergence of new issues in education and progression and locations of these Twitterers?
-Visualize the geographical distribution
-What are the timelines of these tweets? Do you see significant peaks and valleys?
-Do you see any data collection gaps?
-Plot the timelines of these tweets
-How unique are the messages?
-Are they mostly unique? Or usually people are just copy-pasting the same text?
-Visualize message duplication for each group of Twitterers (government entities / health organizations / news outlets / social media influencers / other)
+1. Identify the most prolific / influential Twitterers
+2. Who are these Twitterers (government entities / universities / schools / nonprofit organizations / news outlets / social media influencers / someone else)?
+3. Visualize the distribution of tweet / retweet volume by Twitterers and types of organizations
+4. Where are these Twitterers (all of them, not just influencers) located?
+5. Is there any relationship between the emergence of new issues in education and progression and locations of these Twitterers?
+6. Visualize the geographical distribution
+7. What are the timelines of these tweets? Do you see significant peaks and valleys?
+8. Do you see any data collection gaps?
+9. Plot the timelines of these tweets
+10. How unique are the messages?
+11. Are they mostly unique? Or usually people are just copy-pasting the same text?
+12. Visualize message duplication for each group of Twitterers (government entities / health organizations / news outlets / social media influencers / other)
 
 ## Data
 
